@@ -1,0 +1,30 @@
+{
+  "name": "music-tracker",
+  "version": "1.0.0",
+  "description": "Playground for tracking music preferences, built on NodeJS and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nckswt/music-tracker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "music"
+  ],
+  "author": "Nick Sweet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nckswt/music-tracker/issues"
+  },
+  "homepage": "https://github.com/nckswt/music-tracker#readme",
+  "dependencies": {
+    "grunt": "^1.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
